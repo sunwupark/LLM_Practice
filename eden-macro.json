@@ -1,0 +1,77 @@
+{
+    "public_identifier": "johnrmarty",
+    "profile_pic_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/person/johnrmarty/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20231001%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20231001T073620Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=1841fc3c5864124274aefb3e3ebf9ec216ae948fc3c00145a9b7a5285695274c",
+    "background_cover_image_url": null,
+    "first_name": "John",
+    "last_name": "Marty",
+    "full_name": "John Marty",
+    "follower_count": 263940,
+    "occupation": "Co-Founder at FF Real Estate",
+    "headline": "LinkedIn Top Voice",
+    "summary": "Most people go through life lost, disengaged, and unhappy at work and in their lives - I'm on a mission to solve that.\n\nI spent 10 years as the founder of Axxis Audio, an electronics company that grew to multi-million dollar sales, which I sold in 2012. At that time, I funneled my earnings into the creation of an Internet of Things company, but numerous factors lead to its demise after 2 hard fought years. \n\nAt 31, I was penny-less, had a baby on the way, and had zero job prospects (despite applying to 150 companies). My desperate situation led me to take a job at Best Buy for $12 an hour while reinventing myself through the completion of an MBA at the University of Colorado, and a 6-month software development boot camp. \n\nAfter graduation, I landed at American Express as a Senior Product Manager and then got poached by Amazon in 2017 (because of my LinkedIn profile). My journey has led to a deep sense of perspective, humility, and purpose that I draw on to help others find clarity, meaning, and happiness in their careers and lives. \n\nCheck out my website for details on my Mindset Reset Podcast, Public Speaking, Consulting, or my free 40 page LinkedIn guide\n\nhttp://www.johnraphaelmarty.com/\n\nFAQ's\n\nQ: Can you speak at my Company, University, event or podcast?\nA: I'd love to! I've shared my message on the future of employment, breaking into big tech, and my personal story of reinventing myself and discovering my sense of purpose (and how you can too!).\n\n☑️ YouTube Channel #1 (John Marty): http://www.youtube.com/c/JohnMarty-uncommon\n☑️ YouTube Channel #2 (Tech Careers for non-engineers: https://www.youtube.com/channel/UC900gMMPLwRGGXSTW1gdZHA\n\nFUN FACTS:\n☑️ I am an Avid cyclist and runner, and I just started learning to skateboard a half-pipe.\n☑️ Into the Enneagram? - I'm a #3 (The Achiever)\n\nLETS CONNECT:\n☑️ Email: JohnRmarty@gmail.com (don't forget that \"R\"....The other guy gets my emails all the time)",
+    "country": "US",
+    "country_full_name": "United States of America",
+    "city": "Seattle",
+    "state": "Washington",
+    "experiences": [
+       {
+          "starts_at": {
+             "day": 1,
+             "month": 8,
+             "year": 2021
+          },
+          "ends_at": null,
+          "company": "FF Real Estate",
+          "company_linkedin_profile_url": null,
+          "title": "Co-Founder",
+          "description": "Our mission is to provide everyday people seeking financial freedom long before the age of 65 with the ability to contribute to real estate projects that were only accessible in the past for a select few wealthy individuals.",
+          "location": null,
+          "logo_url": null
+       },
+       {
+          "starts_at": {
+             "day": 1,
+             "month": 1,
+             "year": 2020
+          },
+          "ends_at": {
+             "day": 31,
+             "month": 1,
+             "year": 2020
+          },
+          "company": "Product School",
+          "company_linkedin_profile_url": null,
+          "title": "Featured Speaker",
+          "description": "Product School is a global leader in Product Management training with a community of over one million product professionals. As a featured speaker, I help inspire the next generation of Product Managers to create innovative products and apply best practices in their work.",
+          "location": "Seattle, Washington, United States",
+          "logo_url": "https://media.licdn.com/dms/image/D4E0BAQGODY7RuiroaA/company-logo_400_400/0/1688233590017?e=1704326400&v=beta&t=riXlAtA-I2513LSN9z8qw3MqkwuvhEvjK5XmT-4FdvM"
+       },
+       {
+          "starts_at": {
+             "day": 1,
+             "month": 1,
+             "year": 2021
+          },
+          "ends_at": null,
+          "company": "Mindset Reset Podcast",
+          "company_linkedin_profile_url": "https://www.linkedin.com/company/mindset-reset-podcast/",
+          "title": "Founder",
+          "description": "We dive into the mindsets of the world's foremost thought leaders and turn them into actionable insights so that others can discover greater happiness, success, and fulfillment.\n\nhttps://podcasts.apple.com/us/podcast/mindset-reset/id1553212607",
+          "location": "Denver, Colorado, United States",
+          "logo_url": "https://media.licdn.com/dms/image/C560BAQF9QJVQm3SOvA/company-logo_400_400/0/1614527476576?e=1704326400&v=beta&t=Yka0kkE8YUupJZAfazqpEjxKEn1roU-VFTgo9Q4Z8rI"
+       },
+       {
+          "starts_at": {
+             "day": 1,
+             "month": 1,
+             "year": 2017
+          },
+          "ends_at": null,
+          "company": "YouTube",
+          "company_linkedin_profile_url": "https://www.linkedin.com/company/youtube/",
+          "title": "Youtube Content Creator - \"John Marty\"",
+          "description": null,
+          "location": "Seattle, Washington"
+       }
+    ]
+    }
